@@ -29,5 +29,19 @@ WHERE date = 20180115 AND city = 'SQL City' AND type = 'murder';
 > 
 > Tras analizar los resultados del reporte del crimen en la ciudad SQL se encontro que el dia XXX habian dos asesinatos.
 
+### Query 2
+
+
+
+```sql
+-- To Do
+```
+
+...
+
+
+## Conclusion
+
+El asesino es xxx
 
 
